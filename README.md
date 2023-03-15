@@ -1,2 +1,2 @@
 # MIPT_Matrix
-This my solution for "Matrix" task in MIPT.
+This is my solution for "Matrix" task in MIPT.
